@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:orientation="vertical"
+
+    android:layout_width="fill_parent"
+
+    android:layout_height="fill_parent"
+    >
+    <TextView
+        android:id="@+id/xtv1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Notificaciones con Toast" />
+    <Button
+        android:id="@+id/xbn1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="toast1"
+        android:text="Toast Sencillo" />
+    <Button
+        android:id="@+id/xbn2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Toast Reubicado"
+        android:onClick="toast2" />
+    <Button
+        android:id="@+id/xbn3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Toast con Diseño"
+        android:onClick="toast3" />
+</LinearLayout>

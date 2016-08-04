@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="100dp"
+    android:background="@color/morado_obscuro">
+
+    <Button
+        android:id="@+id/create"
+        android:layout_width="200dp"
+        android:layout_height="37dp"
+        android:text="Create DataBase"
+        android:layout_gravity="center_horizontal"
+        android:onClick="CreateonClick"
+        android:background="@drawable/customborder"
+        android:layout_margin="10dp"
+         />
+
+    <Button
+        android:id="@+id/add"
+        android:layout_width="200dp"
+        android:layout_height="34dp"
+        android:text="INSERT"
+        android:layout_gravity="center_horizontal"
+        android:onClick="AddonClick"
+        android:background="@drawable/customborder"
+        android:layout_margin="10dp" />
+
+    <Button
+        android:id="@+id/delete"
+        android:layout_width="200dp"
+        android:layout_height="36dp"
+        android:text="DELETE"
+        android:layout_gravity="center_horizontal"
+        android:onClick="DeleteonClick"
+        android:background="@drawable/customborder"
+        android:layout_margin="10dp" />
+
+    <Button
+        android:id="@+id/update"
+        android:layout_width="200dp"
+        android:layout_height="33dp"
+        android:text="UPDATE"
+        android:layout_gravity="center_horizontal"
+        android:onClick="DeleteonClick"
+        android:background="@drawable/customborder"
+        android:layout_margin="10dp" />
+
+    <Button
+        android:id="@+id/select"
+        android:layout_width="200dp"
+        android:layout_height="33dp"
+        android:text="SELECT"
+        android:layout_gravity="center_horizontal"
+        android:onClick="SelectonClick"
+        android:background="@drawable/customborder"
+        android:layout_margin="10dp" />
+
+</LinearLayout>

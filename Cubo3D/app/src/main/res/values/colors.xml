@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!--AZUL-->
+    <color name="azul">#2962FF</color>
+    <!--AZULClaro-->
+    <color name="azul_claro">#82B1FF</color>
+    <!--AZULObscuro-->
+    <color name="azul_obscuro">#4A71B2</color>
+    <!--AZULCyan-->
+    <color name="azul_cyan">#00BCD4</color>
+
+    <!--VERDE-->
+    <color name="verde">#25990B</color>
+    <!--VERDEClaro-->
+    <color name="verde_claro">#B2FF59</color>
+    <!--VERDETeal-->
+    <color name="verde_teal">#009688</color>
+    <!--VERDEAndroid-->
+    <color name="verde_android">#A4C739</color>
+
+    <!--AMARILLO-->
+    <color name="amarillo">#FFEB3B</color>
+    <!--AMARILLOClaro-->
+    <color name="amarillo_claro">#FFFF8D</color>
+    <!--AMARILLOObscuro-->
+    <color name="amarillo_obscuro">#F4C11E</color>
+
+    <!--ROSA-->
+    <color name="rosa">#FF4081</color>
+    <!--ROSAClaro-->
+    <color name="rosa_claro">#FF80AB</color>
+    <!--ROSAGuinda-->
+    <color name="rosa_guinda">#C51162</color>
+
+    <!--NARANJA-->
+    <color name="naranja">#FF9800</color>
+    <!--NARANJAClaro-->
+    <color name="naranja_claro">#FFAB40</color>
+    <!--NARANJAObscuro-->
+    <color name="naranja_obscuro">#FF5722</color>
+
+    <!--GRIS-->
+    <color name="gris">#9E9E9E</color>
+    <!--GRISClaro-->
+    <color name="gris_claro">#F5F5F5</color>
+    <!--GRISObscuro-->
+    <color name="gris_obscuro">#616161</color>
+    <!--GRISAzul-->
+    <color name="gris_azul">#607D8B</color>
+    <!--GRISAzulClaro-->
+    <color name="gris_azul_claro">#CFD8DC</color>
+    <!--GRISAzulObscuro-->
+    <color name="gris_azul_obscuro">#37474F</color>
+
+    <!--BLANCO-->
+    <color name="blanco">#FFFFFF</color>
+    <!--BLANCOMarmol-->
+    <color name="blanco_marfil">#FFFFF0</color>
+
+    <!--MORADO-->
+    <color name="morado">#9C27B0</color>
+    <!--MORADOClaro-->
+    <color name="morado_claro">#E1BEE7</color>
+    <!--MORADOObscuro-->
+    <color name="morado_obscuro">#673AB7</color>
+
+    <!--ROJO-->
+    <color name="rojo">#E53935</color>
+    <!--ROJOClaro-->
+    <color name="rojo_claro">#FF8A80</color>
+    <!--ROJOObscuro-->
+    <color name="rojo_obscuro">#D50000</color>
+
+    <!--NEGRO-->
+    <color name="negro">#000000</color>
+
+</resources>

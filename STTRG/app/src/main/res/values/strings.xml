@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TABS,RG,SPIN,TOAST</string>
+    <string name="action_settings">Settings</string>
+    <string name="textoOpciones">Opciones</string>
+    <string name="xtxtrb1">1</string>
+    <string name="xtxtrb2">2</string>
+    <string name="xtxtrb3">3</string>
+    <string name="xtxttv1">Seleccion:</string>
+    <string-array name="Opciones">
+        <item>Opcion 1</item>
+        <item>Opcion 2</item>
+        <item>Opcion 3</item>
+        <item>Opcion 4</item>
+        <item>Opcion 5</item>
+        <item>Opcion 6</item>
+        <item>Opcion 7</item>
+        <item>Opcion 8</item>
+        <item>Opcion 9</item>
+        <item>Opcion 10</item>
+    </string-array>
+    <string name="title_activity_tab">Tab</string>
+    <string name="title_activity_rgroup">Rgroup</string>
+    <string name="title_activity_spin">Spin</string>
+    <string name="title_activity_tost">Tost</string>
+</resources>

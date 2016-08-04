@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:stretchColumns="1" >
+    <TableRow>
+        <TextView
+            android:id="@+id/xtv1"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_column="0"
+            android:text="@string/xtxttv1"/>
+    </TableRow>
+    <TableRow>
+        <RadioGroup
+            android:id="@+id/xrg1"
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checkedButton="@+id/xrg1"
+            android:layout_column="0"
+            android:layout_span="3">
+            <RadioButton
+                android:id="@+id/xrb1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/xtxtrb1"/>
+            <RadioButton
+                android:id="@+id/xrb2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/xtxtrb2"/>
+            <RadioButton
+                android:id="@+id/xrb3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/xtxtrb3"/>
+        </RadioGroup>
+    </TableRow>
+    <View
+        android:layout_height="5dp"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:background="#DDFFDD" />
+    <TableRow
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp">
+        <TextView
+            android:id="@+id/xtv2"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_column="0"/>
+    </TableRow>
+</TableLayout>

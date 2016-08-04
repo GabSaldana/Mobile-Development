@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorPrimary"
+    android:padding="100dp">
+
+
+    <Button
+        android:id="@+id/tb"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Tabs"
+        android:textColor="@color/colorPrimary"
+        android:layout_gravity="center_horizontal"
+        android:onClick="TabonClick" />
+
+
+    <Button
+        android:id="@+id/rg"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="RadioGroup"
+        android:textColor="@color/colorPrimary"
+        android:layout_gravity="center_horizontal"
+        android:onClick="RgrouponClick" />
+
+    <Button
+        android:id="@+id/sp"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Spinner"
+        android:textColor="@color/colorPrimary"
+        android:layout_gravity="center_horizontal"
+        android:onClick="SpinonClick" />
+
+    <Button
+        android:id="@+id/ts"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Toast"
+        android:textColor="@color/colorPrimary"
+        android:layout_gravity="center_horizontal"
+        android:onClick="TostonClick" />
+</LinearLayout>

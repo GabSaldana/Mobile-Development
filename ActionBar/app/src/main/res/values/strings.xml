@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Toolbar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="settings">Settings</string>
+    <string name="buscar">Buscar</string>
+    <string name="nuevo">Nuevo</string>
+    <string name="datos">Datos</string>
+    <string name="checkbox1">Checkbox1</string>
+    <string name="checkbox2">Checkbox2</string>
+    <string name="opciones">Opciones:</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="otra">Otra</string>
+</resources>
